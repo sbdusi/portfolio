@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,700;1,200;1,300&family=Niramit:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+body{
+    background-color: rgb(252, 235, 235);
+    font-family: 'Mulish', sans-serif;
+}
+
+/*Navbar*/
+
+.navbar img {
+  width: 60px;
+  height: 60px;
+}
+.navbar-nav {
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+    margin-left: 300px;
+}
+.navbar-nav a{
+    color: rgb(22, 69, 129);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.btn-primary {
+    background-color: rgb(22, 69, 129);
+    color: rgb(252, 235, 235);
+    margin-right: 20px;
+}
+
+/*Welcome*/
+.welcome .imgYo{
+    width: 600px;
+    height: 520px;
+    margin-top: 40px;
+}
+
+.welcome .presentacion {
+    margin-top: 250px;
+}
+
+.presentacion h3{
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(22, 69, 129);
+}
+
+.presentacion h6 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: rgb(22, 69, 129);
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+.icon {
+margin: 150px 10px 5px 10px;
+}
+
+
+/*Sobre mi*/
+.welcome .imgDiseñador {
+    width: 300px;
+    height: 300px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.welcome p{
+    font-weight: lighter;
+    font-size: 1rem;
+}
+
+.welcome .sobreMi {
+    margin-top: 150px;
+}
+
+.sobreMi h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(22, 69, 129);
+}
+
+.sobreMi p{
+    font-size: 1rem;
+    font-weight: 600;
+    color: rgb(21, 50, 87);
+}
+
+.sobreMi .wsp {
+    margin-left: 560px;
+    margin-top: 60px;
+}
